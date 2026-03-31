@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: java, portugol e C
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Github e VScode
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
